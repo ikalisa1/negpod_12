@@ -1,6 +1,7 @@
 #!/bin/bash
-
-# Save the student record to a file
+ 
+  # Save the student record to a file
     echo "$email $age $student_id" >> students-list_0923.txt
     echo "Student record created and saved."
-}
+
+  
